@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-sheen-goh?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sheen-goh/)](https://www.linkedin.com/in/sheen-goh/)
 [![Gmail Badge](https://img.shields.io/badge/-sheen.an.goh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sheen.an.goh@gmail.com)](mailto:sheen.an.goh@gmail.com)
+
+Welcome to my profile!! I am technologist with a passion to make a difference in the world we are living in. Currently, I am also pursuing my Masters at the National University of Singapore (NUS) and also building awesome software at Government Technology Agency (Singapore). Feel free to reach out to me!
