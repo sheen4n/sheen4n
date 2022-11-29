@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Welcome to my profile!! I am technologist with a passion to make a difference in the world we are living in. Currently, I am also pursuing my Masters at the National University of Singapore (NUS) and also building awesome software at Government Technology Agency (Singapore). Feel free to reach out to me!
 
 ## ⚡ Technologies
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
