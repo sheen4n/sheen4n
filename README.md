@@ -18,16 +18,6 @@ I'm a passionate **technologist** dedicated to creating meaningful impact throug
 
 > _"Building technology that makes a difference in the world we live in"_
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Sheen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheen4n&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheen4n&layout=compact&theme=radical)
-
-</div>
-
 ## 🛠️ Tech Stack
 
 ### AI and Bots
